@@ -42,5 +42,6 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "python.pythonPath": "D:\\python\\myLib\\anacanda3.8\\envs\\learn_pytorch\\python.exe"
 }
